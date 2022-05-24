@@ -69,7 +69,7 @@ const App = () => {
 
         <div>
           <p className="text-base font-bold">{data.title}</p>
-          <p className="text-sm text-gray-800">{data.content}</p>
+          <p className="text-sm text-gray-800">{data.contents}</p>
         </div>
       </div>
     );
